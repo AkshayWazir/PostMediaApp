@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693712342426",
+    "firebase_url": "https://internshiptest-6980b.firebaseio.com",
+    "project_id": "internshiptest-6980b",
+    "storage_bucket": "internshiptest-6980b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693712342426:android:1d27bd3333434bbe80fe23",
+        "android_client_info": {
+          "package_name": "org.wazir.build.postapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693712342426-5ku5lbnbcm0ba0r3ikiavmiu5jjjmgec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.wazir.build.postapp",
+            "certificate_hash": "c62ec548c03630d6895fd5b2345ba7a95f8c737c"
+          }
+        },
+        {
+          "client_id": "693712342426-7ifb0r4s3d8irb7mb1fvbus8c7egvpng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdhi3h3j8CVWVyVAXskq5y_Dz8HgiqD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693712342426-7ifb0r4s3d8irb7mb1fvbus8c7egvpng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
